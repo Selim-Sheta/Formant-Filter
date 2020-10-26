@@ -1,0 +1,2 @@
+# Formant Filter
+ Digital audio system developed on the embedded computing platform Bela. The program can filter a sawtooth wave in a manner that approaches the sound of a human voice. The filter is able to replicate some common vowel sounds by amplifying certain frequencies. This is done using four band-pass filters in parallel, each with independent cut-off frequency, Q-factor, and gain controls. These are tuned to the first four formant frequencies of each vowel of interest.
